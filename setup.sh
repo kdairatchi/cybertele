@@ -55,4 +55,4 @@ echo "TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN" > .env
 
 # Step 8: Run the bot
 echo "Setup is complete! You can now run the Telegram bot with the following command:"
-echo "python3 cybersecurity_bot.py"
+echo "python3 bot.py"
